@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/mart-admin/sa-admin/src/main/resources/dev/application.yaml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/mart-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mart-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mart-admin/src/main/resources/dev" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mart-admin/src/main/resources/dev/application.yaml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mart-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mart-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mart-common/src/main/resources/dev" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mart-product/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mart-product/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mart-product/src/main/resources/dev" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-admin-api/sa-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-admin-api/sa-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-admin-api/sa-admin/src/main/resources/dev" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-admin-api/sa-admin/src/main/resources/dev/application.yaml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-admin-api/sa-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-admin-api/sa-base/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-admin-api/sa-base/src/main/resources/dev" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-admin-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-admin-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-admin-api/src/main/resources/dev" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/dev" charset="UTF-8" />
+  </component>
+</project>
